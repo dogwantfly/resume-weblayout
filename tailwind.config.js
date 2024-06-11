@@ -28,6 +28,9 @@ export default {
         center: true,
         padding: '0.75rem'
       },
+      screens: {
+        '2xl': '1320px',
+      }
     },
   },
   plugins: [],
